@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [EachSheep/AbnormalDetection](https://github.com/EachSheep/AbnormalDetection) - ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs (today)
-- [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) - Acceptance rates for the major AI conferences (5 days ago)
-- [thunlp/ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers) -  (5 days ago)
-- [quchangle1/LLM-Tool-Survey](https://github.com/quchangle1/LLM-Tool-Survey) - This is the repository for the Tool Learning survey. (5 days ago)
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues? (6 days ago)
+- [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。 (1 day ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (1 day ago)
+- [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad (3 days ago)
+- [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT (5 days ago)
