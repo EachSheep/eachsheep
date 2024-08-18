@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices (1 day ago)
-- [facebookresearch/SpinQuant](https://github.com/facebookresearch/SpinQuant) - Code repo for the paper &#34;SpinQuant LLM quantization with learned rotations&#34; (1 day ago)
-- [EachSheep/AutoregressiveAPIRetriever](https://github.com/EachSheep/AutoregressiveAPIRetriever) -  (4 days ago)
-- [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。 (1 week ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 week ago)
+- [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper (2 days ago)
+- [Cornell-RelaxML/quip-sharp](https://github.com/Cornell-RelaxML/quip-sharp) -  (4 days ago)
+- [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface (4 days ago)
+- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices (1 week ago)
+- [facebookresearch/SpinQuant](https://github.com/facebookresearch/SpinQuant) - Code repo for the paper &#34;SpinQuant LLM quantization with learned rotations&#34; (1 week ago)
