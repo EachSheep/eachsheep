@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15&#43; diverse IR datasets. (5 days ago)
-- [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper (1 week ago)
-- [Cornell-RelaxML/quip-sharp](https://github.com/Cornell-RelaxML/quip-sharp) -  (1 week ago)
-- [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface (1 week ago)
-- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices (2 weeks ago)
+- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15&#43; diverse IR datasets. (1 week ago)
+- [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper (2 weeks ago)
+- [Cornell-RelaxML/quip-sharp](https://github.com/Cornell-RelaxML/quip-sharp) -  (2 weeks ago)
+- [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface (2 weeks ago)
+- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices (3 weeks ago)
