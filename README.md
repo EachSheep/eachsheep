@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15&#43; diverse IR datasets. (1 week ago)
-- [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper (2 weeks ago)
-- [Cornell-RelaxML/quip-sharp](https://github.com/Cornell-RelaxML/quip-sharp) -  (2 weeks ago)
-- [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface (2 weeks ago)
-- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices (3 weeks ago)
+- [SingleZombie/DL-Demos](https://github.com/SingleZombie/DL-Demos) - Demos for deep learning (5 days ago)
+- [ArvinZhuang/DSI-QG](https://github.com/ArvinZhuang/DSI-QG) - The official repository for &#34;Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation&#34;, Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang. (6 days ago)
+- [ArvinZhuang/DSI-transformers](https://github.com/ArvinZhuang/DSI-transformers) - A huggingface transformers implementation of &#34;Transformer Memory as a Differentiable Search Index&#34; (1 week ago)
+- [sunnweiwei/GenRet](https://github.com/sunnweiwei/GenRet) - Learning to Tokenize for Generative Retrieval (NeurIPS 2023) (1 week ago)
+- [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15&#43; diverse IR datasets. (2 weeks ago)
