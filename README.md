@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence &#43; Xcode Predictive Code Completion for Chinese-market Mac computers (3 weeks ago)
-- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -  (3 weeks ago)
-- [SingleZombie/DL-Demos](https://github.com/SingleZombie/DL-Demos) - Demos for deep learning (3 weeks ago)
-- [ArvinZhuang/DSI-QG](https://github.com/ArvinZhuang/DSI-QG) - The official repository for &#34;Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation&#34;, Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang. (3 weeks ago)
-- [ArvinZhuang/DSI-transformers](https://github.com/ArvinZhuang/DSI-transformers) - A huggingface transformers implementation of &#34;Transformer Memory as a Differentiable Search Index&#34; (4 weeks ago)
+- [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence &#43; Xcode Predictive Code Completion for Chinese-market Mac computers (4 weeks ago)
+- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -  (4 weeks ago)
+- [SingleZombie/DL-Demos](https://github.com/SingleZombie/DL-Demos) - Demos for deep learning (1 month ago)
+- [ArvinZhuang/DSI-QG](https://github.com/ArvinZhuang/DSI-QG) - The official repository for &#34;Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation&#34;, Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang. (1 month ago)
+- [ArvinZhuang/DSI-transformers](https://github.com/ArvinZhuang/DSI-transformers) - A huggingface transformers implementation of &#34;Transformer Memory as a Differentiable Search Index&#34; (1 month ago)
