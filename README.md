@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence &#43; Xcode Predictive Code Completion for Chinese-market Mac computers (4 weeks ago)
-- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -  (4 weeks ago)
-- [SingleZombie/DL-Demos](https://github.com/SingleZombie/DL-Demos) - Demos for deep learning (1 month ago)
-- [ArvinZhuang/DSI-QG](https://github.com/ArvinZhuang/DSI-QG) - The official repository for &#34;Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation&#34;, Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang. (1 month ago)
-- [ArvinZhuang/DSI-transformers](https://github.com/ArvinZhuang/DSI-transformers) - A huggingface transformers implementation of &#34;Transformer Memory as a Differentiable Search Index&#34; (1 month ago)
+- [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 Repository for &#34;AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agent&#34;, ACL&#39;24 Best Resource Paper. (1 day ago)
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system (4 days ago)
+- [ZitongYang/Synthetic_Continued_Pretraining](https://github.com/ZitongYang/Synthetic_Continued_Pretraining) - Code implementation of synthetic continued pretraining (1 week ago)
+- [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence &#43; Xcode Predictive Code Completion for Chinese-market Mac computers (1 month ago)
+- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -  (1 month ago)
