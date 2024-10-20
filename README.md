@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [StonyBrookNLP/appworld](https://github.com/StonyBrookNLP/appworld) - 🌍 Repository for &#34;AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agent&#34;, ACL&#39;24 Best Resource Paper. (1 day ago)
-- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system (4 days ago)
-- [ZitongYang/Synthetic_Continued_Pretraining](https://github.com/ZitongYang/Synthetic_Continued_Pretraining) - Code implementation of synthetic continued pretraining (1 week ago)
-- [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence &#43; Xcode Predictive Code Completion for Chinese-market Mac computers (1 month ago)
-- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -  (1 month ago)
+- [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python (2 days ago)
+- [oyachai/HearthSim](https://github.com/oyachai/HearthSim) - Generic Hearthstone game simulator (2 days ago)
+- [danielyule/hearthbreaker](https://github.com/danielyule/hearthbreaker) - A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining (2 days ago)
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (2 days ago)
+- [LaMP-Benchmark/LaMP](https://github.com/LaMP-Benchmark/LaMP) - Codes for papers on Large Language Models Personalization (LaMP) (4 days ago)
