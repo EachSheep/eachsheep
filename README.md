@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python (2 days ago)
-- [oyachai/HearthSim](https://github.com/oyachai/HearthSim) - Generic Hearthstone game simulator (2 days ago)
-- [danielyule/hearthbreaker](https://github.com/danielyule/hearthbreaker) - A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining (2 days ago)
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (2 days ago)
-- [LaMP-Benchmark/LaMP](https://github.com/LaMP-Benchmark/LaMP) - Codes for papers on Large Language Models Personalization (LaMP) (4 days ago)
+- [yudshj/CCFrank4dblp-UserScript](https://github.com/yudshj/CCFrank4dblp-UserScript) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results. (1 day ago)
+- [dwzhu-pku/LongEmbed](https://github.com/dwzhu-pku/LongEmbed) - Official implementation for the paper &#34;LongEmbed: Extending Embedding Models for Long Context Retrieval&#34; (2 days ago)
+- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark (2 days ago)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (4 days ago)
+- [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown (1 week ago)
