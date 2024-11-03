@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [yudshj/CCFrank4dblp-UserScript](https://github.com/yudshj/CCFrank4dblp-UserScript) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results. (1 day ago)
-- [dwzhu-pku/LongEmbed](https://github.com/dwzhu-pku/LongEmbed) - Official implementation for the paper &#34;LongEmbed: Extending Embedding Models for Long Context Retrieval&#34; (2 days ago)
-- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark (2 days ago)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (4 days ago)
-- [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown (1 week ago)
+- [limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings) - Open Source Text Embedding Models with OpenAI Compatible API (5 days ago)
+- [yudshj/CCFrank4dblp-UserScript](https://github.com/yudshj/CCFrank4dblp-UserScript) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results. (1 week ago)
+- [dwzhu-pku/LongEmbed](https://github.com/dwzhu-pku/LongEmbed) - LongEmbed: Extending Embedding Models for Long Context Retrieval (EMNLP 2024) (1 week ago)
+- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark (1 week ago)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 week ago)
