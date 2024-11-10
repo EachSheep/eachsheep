@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings) - Open Source Text Embedding Models with OpenAI Compatible API (5 days ago)
-- [yudshj/CCFrank4dblp-UserScript](https://github.com/yudshj/CCFrank4dblp-UserScript) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results. (1 week ago)
-- [dwzhu-pku/LongEmbed](https://github.com/dwzhu-pku/LongEmbed) - LongEmbed: Extending Embedding Models for Long Context Retrieval (EMNLP 2024) (1 week ago)
-- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark (1 week ago)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 week ago)
+- [biscuitehh/pam-watchid](https://github.com/biscuitehh/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (3 days ago)
+- [teacherpeterpan/Logic-LLM](https://github.com/teacherpeterpan/Logic-LLM) - The project page for &#34;LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning&#34; (3 days ago)
+- [mukunku/ParquetViewer](https://github.com/mukunku/ParquetViewer) - Simple Windows desktop application for viewing &amp; querying Apache Parquet files (4 days ago)
+- [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. (4 days ago)
+- [limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings) - Open Source Text Embedding Models with OpenAI Compatible API (1 week ago)
