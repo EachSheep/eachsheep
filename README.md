@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [biscuitehh/pam-watchid](https://github.com/biscuitehh/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (2 weeks ago)
-- [teacherpeterpan/Logic-LLM](https://github.com/teacherpeterpan/Logic-LLM) - The project page for &#34;LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning&#34; (2 weeks ago)
-- [mukunku/ParquetViewer](https://github.com/mukunku/ParquetViewer) - Simple Windows desktop application for viewing &amp; querying Apache Parquet files (2 weeks ago)
-- [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. (2 weeks ago)
-- [limcheekin/open-text-embeddings](https://github.com/limcheekin/open-text-embeddings) - Open Source Text Embedding Models with OpenAI Compatible API (3 weeks ago)
+- [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey (5 days ago)
+- [lucky521/UniformShortcut](https://github.com/lucky521/UniformShortcut) - 让Windows和Mac的键盘快捷键统一起来 (5 days ago)
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference (6 days ago)
+- [biscuitehh/pam-watchid](https://github.com/biscuitehh/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (3 weeks ago)
+- [teacherpeterpan/Logic-LLM](https://github.com/teacherpeterpan/Logic-LLM) - The project page for &#34;LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning&#34; (3 weeks ago)
