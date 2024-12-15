@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [MCG-NJU/FlowDCN](https://github.com/MCG-NJU/FlowDCN) - [NeurIPS 2024] Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution (1 day ago)
-- [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey (1 week ago)
-- [lucky521/UniformShortcut](https://github.com/lucky521/UniformShortcut) - 让Windows和Mac的键盘快捷键统一起来 (1 week ago)
-- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference (1 week ago)
-- [biscuitehh/pam-watchid](https://github.com/biscuitehh/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication (1 month ago)
+- [oneal2000/DRAGIN](https://github.com/oneal2000/DRAGIN) - Source code of DRAGIN, ACL 2024 main conference Long Paper (1 day ago)
+- [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE) (1 day ago)
+- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key. (1 week ago)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) (1 week ago)
+- [jlko/semantic_uncertainty](https://github.com/jlko/semantic_uncertainty) - Codebase for reproducing the experiments of the semantic uncertainty paper (short-phrase and sentence-length experiments). (1 week ago)
