@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [oneal2000/DRAGIN](https://github.com/oneal2000/DRAGIN) - Source code of DRAGIN, ACL 2024 main conference Long Paper (1 day ago)
-- [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE) (1 day ago)
-- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key. (1 week ago)
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) (1 week ago)
-- [jlko/semantic_uncertainty](https://github.com/jlko/semantic_uncertainty) - Codebase for reproducing the experiments of the semantic uncertainty paper (short-phrase and sentence-length experiments). (1 week ago)
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics &amp; embodied AI learning. (3 days ago)
+- [oneal2000/DRAGIN](https://github.com/oneal2000/DRAGIN) - Source code of DRAGIN, ACL 2024 main conference Long Paper (1 week ago)
+- [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE) (1 week ago)
+- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key. (2 weeks ago)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) (2 weeks ago)
