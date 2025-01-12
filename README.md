@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS&#39;24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG &#43; Knowledge Graphs &#43; Personalized PageRank. (1 week ago)
-- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics &amp; embodied AI learning. (2 weeks ago)
-- [oneal2000/DRAGIN](https://github.com/oneal2000/DRAGIN) - Source code of DRAGIN, ACL 2024 main conference Long Paper (3 weeks ago)
-- [jzbjyb/FLARE](https://github.com/jzbjyb/FLARE) - Forward-Looking Active REtrieval-augmented generation (FLARE) (3 weeks ago)
-- [noobnooc/AssisChat](https://github.com/noobnooc/AssisChat) - An ai-assistant chat app that using your own OpenAI/Claude API key. (4 weeks ago)
+- [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles &amp; Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的自己 ✨  (1 day ago)
+- [R0bk/killedbyllm](https://github.com/R0bk/killedbyllm) -  (6 days ago)
+- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS&#39;24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG &#43; Knowledge Graphs &#43; Personalized PageRank. (2 weeks ago)
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics &amp; embodied AI learning. (3 weeks ago)
+- [oneal2000/DRAGIN](https://github.com/oneal2000/DRAGIN) - Source code of DRAGIN, ACL 2024 main conference Long Paper (4 weeks ago)
