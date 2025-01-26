@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [irlab-sdu/fuzi.mingcha](https://github.com/irlab-sdu/fuzi.mingcha) - 夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。 (1 day ago)
-- [SkyRiver-2000/RuleArena](https://github.com/SkyRiver-2000/RuleArena) - Codes and data for our paper - RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios (6 days ago)
-- [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles &amp; Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你 (1 week ago)
-- [R0bk/killedbyllm](https://github.com/R0bk/killedbyllm) -  (1 week ago)
-- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS&#39;24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG &#43; Knowledge Graphs &#43; Personalized PageRank. (3 weeks ago)
+- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -  (6 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (6 days ago)
+- [irlab-sdu/fuzi.mingcha](https://github.com/irlab-sdu/fuzi.mingcha) - 夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。 (1 week ago)
+- [SkyRiver-2000/RuleArena](https://github.com/SkyRiver-2000/RuleArena) - Codes and data for our paper - RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios (1 week ago)
+- [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles &amp; Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你 (2 weeks ago)
