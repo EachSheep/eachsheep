@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (2 weeks ago)
-- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -  (2 weeks ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 weeks ago)
-- [irlab-sdu/fuzi.mingcha](https://github.com/irlab-sdu/fuzi.mingcha) - 夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。 (3 weeks ago)
-- [SkyRiver-2000/RuleArena](https://github.com/SkyRiver-2000/RuleArena) - Codes and data for our paper - RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios (3 weeks ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (3 weeks ago)
+- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -  (3 weeks ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (3 weeks ago)
+- [irlab-sdu/fuzi.mingcha](https://github.com/irlab-sdu/fuzi.mingcha) - 夫子•明察司法大模型是由山东大学、浪潮云、中国政法大学联合研发，以 ChatGLM 为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型。该模型支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。 (4 weeks ago)
+- [SkyRiver-2000/RuleArena](https://github.com/SkyRiver-2000/RuleArena) - Codes and data for our paper - RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios (1 month ago)
