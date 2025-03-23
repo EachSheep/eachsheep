@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [SsmallSong/R1-Searcher](https://github.com/SsmallSong/R1-Searcher) - R1-searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning (5 days ago)
-- [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning. (1 week ago)
-- [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend (1 week ago)
-- [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。 (2 weeks ago)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 month ago)
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. (3 days ago)
+- [RUCAIBox/R1-Searcher](https://github.com/RUCAIBox/R1-Searcher) - R1-searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning (1 week ago)
+- [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning. (2 weeks ago)
+- [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend (2 weeks ago)
+- [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。 (3 weeks ago)
