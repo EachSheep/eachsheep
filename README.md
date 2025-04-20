@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (3 days ago)
-- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (2 weeks ago)
-- [declare-lab/trust-align](https://github.com/declare-lab/trust-align) - Codes and datasets for the paper Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse (2 weeks ago)
-- [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker. (2 weeks ago)
-- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. (3 weeks ago)
+- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (1 week ago)
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (3 weeks ago)
+- [declare-lab/trust-align](https://github.com/declare-lab/trust-align) - Codes and datasets for the paper Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse (3 weeks ago)
+- [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker. (3 weeks ago)
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability. (1 month ago)
