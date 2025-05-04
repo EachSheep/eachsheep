@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (2 days ago)
-- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (2 weeks ago)
+- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (1 week ago)
+- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (3 weeks ago)
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (1 month ago)
 - [declare-lab/trust-align](https://github.com/declare-lab/trust-align) - Codes and datasets for the paper Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse (1 month ago)
 - [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker. (1 month ago)
