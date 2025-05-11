@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (1 week ago)
-- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (3 weeks ago)
-- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager (1 month ago)
-- [declare-lab/trust-align](https://github.com/declare-lab/trust-align) - Codes and datasets for the paper Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse (1 month ago)
-- [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker. (1 month ago)
+- [gta0804/MASS](https://github.com/gta0804/MASS) - Offical implementation of MASS: Multi-Agent Simulation Scaling via Investor Behavior Modeling (4 days ago)
+- [morgen52/webanns](https://github.com/morgen52/webanns) -  (5 days ago)
+- [MCG-NJU/NeuralSolver](https://github.com/MCG-NJU/NeuralSolver) - [ICML 2025] Differentiable Solver Search for Fast Diffusion Sampling (1 week ago)
+- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral 🏆] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (2 weeks ago)
+- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (1 month ago)
