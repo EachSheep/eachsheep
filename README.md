@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [gta0804/MASS](https://github.com/gta0804/MASS) - Offical implementation of MASS: Multi-Agent Simulation Scaling via Investor Behavior Modeling (4 days ago)
-- [morgen52/webanns](https://github.com/morgen52/webanns) -  (5 days ago)
-- [MCG-NJU/NeuralSolver](https://github.com/MCG-NJU/NeuralSolver) - [ICML 2025] Differentiable Solver Search for Fast Diffusion Sampling (1 week ago)
-- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral 🏆] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (2 weeks ago)
-- [MCG-NJU/DDT](https://github.com/MCG-NJU/DDT) - DDT: Decoupled Diffusion Transformer (1 month ago)
+- [RUCAIBox/SimpleDeepSearcher](https://github.com/RUCAIBox/SimpleDeepSearcher) - SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis (1 day ago)
+- [gta0804/MASS](https://github.com/gta0804/MASS) - Offical implementation of MASS: Multi-Agent Simulation Scaling via Investor Behavior Modeling (1 week ago)
+- [morgen52/webanns](https://github.com/morgen52/webanns) -  (1 week ago)
+- [MCG-NJU/NeuralSolver](https://github.com/MCG-NJU/NeuralSolver) - [ICML 2025] Differentiable Solver Search for Fast Diffusion Sampling (2 weeks ago)
+- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral 🏆] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (3 weeks ago)
