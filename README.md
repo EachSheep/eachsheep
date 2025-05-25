@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [RUCAIBox/SimpleDeepSearcher](https://github.com/RUCAIBox/SimpleDeepSearcher) - SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis (1 day ago)
-- [gta0804/MASS](https://github.com/gta0804/MASS) - Offical implementation of MASS: Multi-Agent Simulation Scaling via Investor Behavior Modeling (1 week ago)
-- [morgen52/webanns](https://github.com/morgen52/webanns) -  (1 week ago)
-- [MCG-NJU/NeuralSolver](https://github.com/MCG-NJU/NeuralSolver) - [ICML 2025] Differentiable Solver Search for Fast Diffusion Sampling (2 weeks ago)
-- [LehengTHU/AlphaRec](https://github.com/LehengTHU/AlphaRec) - [ICLR 2025 Oral 🏆] The implementation of paper &#34;Language Representations Can be What Recommenders Need: Findings and Potentials&#34; (3 weeks ago)
+- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs (2 days ago)
+- [RAGEN-AI/RAGEN](https://github.com/RAGEN-AI/RAGEN) - RAGEN leverages reinforcement learning to train LLM reasoning agents in interactive, stochastic environments. (2 days ago)
+- [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs) - Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting long2short methods on large reasoning models. It contains papers, codes, datasets, evaluations, and analyses. (3 days ago)
+- [EachSheep/RAGSynth](https://github.com/EachSheep/RAGSynth) - The implementation of RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization (3 days ago)
+- [openai/simple-evals](https://github.com/openai/simple-evals) -  (5 days ago)
