@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs (2 days ago)
-- [RAGEN-AI/RAGEN](https://github.com/RAGEN-AI/RAGEN) - RAGEN leverages reinforcement learning to train LLM reasoning agents in interactive, stochastic environments. (2 days ago)
-- [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs) - Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting long2short methods on large reasoning models. It contains papers, codes, datasets, evaluations, and analyses. (3 days ago)
-- [EachSheep/RAGSynth](https://github.com/EachSheep/RAGSynth) - The implementation of RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization (3 days ago)
-- [openai/simple-evals](https://github.com/openai/simple-evals) -  (5 days ago)
+- [MiniMax-AI/SynLogic](https://github.com/MiniMax-AI/SynLogic) - The official repo of SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (1 day ago)
+- [CharlesQ9/Alita](https://github.com/CharlesQ9/Alita) -  (2 days ago)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (6 days ago)
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. (1 week ago)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease. (1 week ago)
