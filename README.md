@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [MiniMax-AI/SynLogic](https://github.com/MiniMax-AI/SynLogic) - The official repo of SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (1 day ago)
-- [CharlesQ9/Alita](https://github.com/CharlesQ9/Alita) -  (2 days ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (6 days ago)
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. (1 week ago)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease. (1 week ago)
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebWalker [ACL2025] &amp; WebDancer [Preprint] (5 days ago)
+- [chenluda/zhihu-download](https://github.com/chenluda/zhihu-download) - 将知乎专栏文章转换为 Markdown 文件保存到本地 (6 days ago)
+- [MiniMax-AI/SynLogic](https://github.com/MiniMax-AI/SynLogic) - The official repo of SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (1 week ago)
+- [CharlesQ9/Alita](https://github.com/CharlesQ9/Alita) -  (1 week ago)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (1 week ago)
