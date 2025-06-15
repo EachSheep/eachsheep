@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebWalker [ACL2025] &amp; WebDancer [Preprint] (5 days ago)
-- [chenluda/zhihu-download](https://github.com/chenluda/zhihu-download) - 将知乎专栏文章转换为 Markdown 文件保存到本地 (6 days ago)
-- [MiniMax-AI/SynLogic](https://github.com/MiniMax-AI/SynLogic) - The official repo of SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (1 week ago)
-- [CharlesQ9/Alita](https://github.com/CharlesQ9/Alita) -  (1 week ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (1 week ago)
+- [thisiszhou/CTBZStock](https://github.com/thisiszhou/CTBZStock) - A股量化实盘、模拟实盘。本项目基于券商接口，实现小市值策略DEMO在线实盘交易。您可参照本项目轻松实盘您的本地策略 #A股 #量化 (1 day ago)
+- [yudshj/GL2GPU](https://github.com/yudshj/GL2GPU) - This repository contains the official implementation of the paper &#34;GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU&#34;, presented at WWW 2025. https://doi.org/10.1145/3696410.3714785 (4 days ago)
+- [Zehong-Ma/MagCache](https://github.com/Zehong-Ma/MagCache) - The official code for &#34;MagCache: Fast Video Generation with Magnitude-Aware Cache&#34; (5 days ago)
+- [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / LLaMA Factory / Swift / Ultralytics / veRL / MMEngine / Keras etc. (1 week ago)
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebWalker [ACL2025] &amp; WebDancer [Preprint] (1 week ago)
