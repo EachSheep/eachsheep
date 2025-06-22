@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [thisiszhou/CTBZStock](https://github.com/thisiszhou/CTBZStock) - A股量化实盘、模拟实盘。本项目基于券商接口，实现小市值策略DEMO在线实盘交易。您可参照本项目轻松实盘您的本地策略 #A股 #量化 (1 day ago)
-- [yudshj/GL2GPU](https://github.com/yudshj/GL2GPU) - This repository contains the official implementation of the paper &#34;GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU&#34;, presented at WWW 2025. https://doi.org/10.1145/3696410.3714785 (4 days ago)
-- [Zehong-Ma/MagCache](https://github.com/Zehong-Ma/MagCache) - The official code for &#34;MagCache: Fast Video Generation with Magnitude-Aware Cache&#34; (5 days ago)
-- [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / LLaMA Factory / Swift / Ultralytics / veRL / MMEngine / Keras etc. (1 week ago)
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebWalker [ACL2025] &amp; WebDancer [Preprint] (1 week ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (5 days ago)
+- [OpenListTeam/cf-worker-api](https://github.com/OpenListTeam/cf-worker-api) - OpenList API Token Generator (1 week ago)
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 week ago)
+- [thisiszhou/CTBZStock](https://github.com/thisiszhou/CTBZStock) - A股量化实盘、模拟实盘。本项目基于券商接口，实现小市值策略DEMO在线实盘交易。您可参照本项目轻松实盘您的本地策略 #A股 #量化 (1 week ago)
+- [yudshj/GL2GPU](https://github.com/yudshj/GL2GPU) - This repository contains the official implementation of the paper &#34;GL2GPU: Accelerating WebGL Applications via Dynamic API Translation to WebGPU&#34;, presented at WWW 2025. https://doi.org/10.1145/3696410.3714785 (1 week ago)
