@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader) - 交易模块 (2 weeks ago)
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (3 weeks ago)
-- [OpenListTeam/OpenList-APIPages](https://github.com/OpenListTeam/OpenList-APIPages) - OpenList API Token Generator (4 weeks ago)
-- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (4 weeks ago)
-- [thisiszhou/CTBZStock](https://github.com/thisiszhou/CTBZStock) - A股量化实盘、模拟实盘。本项目基于券商接口，实现小市值策略DEMO在线实盘交易。您可参照本项目轻松实盘您的本地策略 #A股 #量化 (4 weeks ago)
+- [StigLidu/DualDistill](https://github.com/StigLidu/DualDistill) - The official implementation for paper &#34;Agentic-R1: Distilled Dual-Strategy Reasoning&#34; (1 day ago)
+- [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader) - 交易模块 (3 weeks ago)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (1 month ago)
+- [OpenListTeam/OpenList-APIPages](https://github.com/OpenListTeam/OpenList-APIPages) - OpenList API Token Generator (1 month ago)
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 month ago)
