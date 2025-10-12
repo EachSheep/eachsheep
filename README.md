@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ai-agents-2030/awesome-deep-research-agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) -  (4 days ago)
-- [anyofai/anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。 (1 week ago)
-- [iamhyc/Overleaf-Workshop](https://github.com/iamhyc/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support. (1 week ago)
-- [fifty-six/Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia. (4 weeks ago)
-- [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs) - Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting long2short methods on large reasoning models. It contains papers, codes, datasets, evaluations, and analyses. (2 months ago)
+- [immersive-translate/zotero-immersivetranslate](https://github.com/immersive-translate/zotero-immersivetranslate) - Zotero BabelDOC plugin, for Immersive Translate Pro members. (3 days ago)
+- [ai-agents-2030/awesome-deep-research-agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) -  (1 week ago)
+- [anyofai/anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。 (2 weeks ago)
+- [iamhyc/Overleaf-Workshop](https://github.com/iamhyc/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support. (2 weeks ago)
+- [fifty-six/Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia. (1 month ago)
