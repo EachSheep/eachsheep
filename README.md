@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (5 days ago)
-- [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger) - A zotero plugin to automatically merge duplicate items (2 weeks ago)
-- [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated) (2 weeks ago)
-- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (2 weeks ago)
-- [l0o0/MagicZotero](https://github.com/l0o0/MagicZotero) - Zotero插件，全文翻译（支持MinerU，pdf2zh，dox2x）。AI智能文献总结，AI列文献矩阵。7天免费试用。 (2 weeks ago)
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (1 week ago)
+- [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger) - A zotero plugin to automatically merge duplicate items (3 weeks ago)
+- [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated) (3 weeks ago)
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (3 weeks ago)
+- [l0o0/MagicZotero](https://github.com/l0o0/MagicZotero) - Zotero插件，全文翻译（支持MinerU，pdf2zh，dox2x）。AI智能文献总结，AI列文献矩阵。7天免费试用。 (3 weeks ago)
