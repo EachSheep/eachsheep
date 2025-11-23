@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (4 days ago)
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (2 weeks ago)
+- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (1 week ago)
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (3 weeks ago)
 - [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger) - A zotero plugin to automatically merge duplicate items (1 month ago)
 - [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated) (1 month ago)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 month ago)
