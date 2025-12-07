@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (2 weeks ago)
+- [SJTU-DMTai/MASTER](https://github.com/SJTU-DMTai/MASTER) - This is the official code and supplementary materials for our AAAI-2024 paper: MASTER: Market-Guided Stock Transformer for Stock Price Forecasting. MASTER is a stock transformer for stock price forecasting, which models the momentary and cross-time stock correlation and guide feature selection with market information. (4 days ago)
+- [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity&#39;s Last Exam (5 days ago)
+- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (3 weeks ago)
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (1 month ago)
 - [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger) - A zotero plugin to automatically merge duplicate items (1 month ago)
-- [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated) (1 month ago)
-- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core (1 month ago)
