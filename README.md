@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [SJTU-DMTai/MASTER](https://github.com/SJTU-DMTai/MASTER) - This is the official code and supplementary materials for our AAAI-2024 paper: MASTER: Market-Guided Stock Transformer for Stock Price Forecasting. MASTER is a stock transformer for stock price forecasting, which models the momentary and cross-time stock correlation and guide feature selection with market information. (4 days ago)
-- [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity&#39;s Last Exam (5 days ago)
-- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (3 weeks ago)
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications (1 month ago)
-- [frangoud/ZoteroDuplicatesMerger](https://github.com/frangoud/ZoteroDuplicatesMerger) - A zotero plugin to automatically merge duplicate items (1 month ago)
+- [laude-institute/harbor](https://github.com/laude-institute/harbor) -  (5 days ago)
+- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal (6 days ago)
+- [SJTU-DMTai/MASTER](https://github.com/SJTU-DMTai/MASTER) - This is the official code and supplementary materials for our AAAI-2024 paper: MASTER: Market-Guided Stock Transformer for Stock Price Forecasting. MASTER is a stock transformer for stock price forecasting, which models the momentary and cross-time stock correlation and guide feature selection with market information. (1 week ago)
+- [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity&#39;s Last Exam (1 week ago)
+- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (1 month ago)
