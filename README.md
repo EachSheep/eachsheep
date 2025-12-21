@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [laude-institute/harbor](https://github.com/laude-institute/harbor) -  (5 days ago)
-- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal (6 days ago)
-- [SJTU-DMTai/MASTER](https://github.com/SJTU-DMTai/MASTER) - This is the official code and supplementary materials for our AAAI-2024 paper: MASTER: Market-Guided Stock Transformer for Stock Price Forecasting. MASTER is a stock transformer for stock price forecasting, which models the momentary and cross-time stock correlation and guide feature selection with market information. (1 week ago)
-- [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity&#39;s Last Exam (1 week ago)
-- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (1 month ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
+- [Zehong-Ma/ComfyUI-MagCache](https://github.com/Zehong-Ma/ComfyUI-MagCache) - The official code that integrates MagCache (Fast Video Generation with Magnitude-Aware Cache) with ComfyUI. (1 day ago)
+- [HanXinzi-AI/awesome-python-machine-learning-resources](https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources) - a collection of awesome machine learning and deep learning Python libraries&amp;tools. 热门实用机器学习和深入学习Python库和工具的集合 (2 days ago)
+- [laude-institute/harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments. (1 week ago)
+- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal (1 week ago)
