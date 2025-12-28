@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
-- [Zehong-Ma/ComfyUI-MagCache](https://github.com/Zehong-Ma/ComfyUI-MagCache) - The official code that integrates MagCache (Fast Video Generation with Magnitude-Aware Cache) with ComfyUI. (1 day ago)
-- [HanXinzi-AI/awesome-python-machine-learning-resources](https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources) - a collection of awesome machine learning and deep learning Python libraries&amp;tools. 热门实用机器学习和深入学习Python库和工具的集合 (2 days ago)
-- [laude-institute/harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments. (1 week ago)
-- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal (1 week ago)
+- [UniPat-AI/github_utils](https://github.com/UniPat-AI/github_utils) -  (1 day ago)
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models (1 day ago)
+- [dgunning/edgartools](https://github.com/dgunning/edgartools) - The world&#39;s easiest, most powerful edgar library (2 days ago)
+- [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) -  Download all companies  periodic reports, filings and forms from EDGAR database. (2 days ago)
+- [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant! (5 days ago)
