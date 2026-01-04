@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [UniPat-AI/github_utils](https://github.com/UniPat-AI/github_utils) -  (1 day ago)
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models (1 day ago)
-- [dgunning/edgartools](https://github.com/dgunning/edgartools) - The world&#39;s easiest, most powerful edgar library (2 days ago)
-- [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) -  Download all companies  periodic reports, filings and forms from EDGAR database. (2 days ago)
-- [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant! (5 days ago)
+- [UniPat-AI/github_utils](https://github.com/UniPat-AI/github_utils) -  (1 week ago)
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models (1 week ago)
+- [dgunning/edgartools](https://github.com/dgunning/edgartools) - The world&#39;s easiest, most powerful edgar library (1 week ago)
+- [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) -  Download all companies  periodic reports, filings and forms from EDGAR database. (1 week ago)
+- [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant! (1 week ago)
