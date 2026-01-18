@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [PKUHPC/scow-tutorial-huawei](https://github.com/PKUHPC/scow-tutorial-huawei) -  (5 days ago)
-- [UniPat-AI/github_utils](https://github.com/UniPat-AI/github_utils) -  (2 weeks ago)
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models (2 weeks ago)
-- [dgunning/edgartools](https://github.com/dgunning/edgartools) - The world&#39;s easiest, most powerful edgar library (2 weeks ago)
-- [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) -  Download all companies  periodic reports, filings and forms from EDGAR database. (2 weeks ago)
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源 (1 day ago)
+- [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 &#43; nfo刮削 &#43; 广告标记 &#43; 字幕下载 &#43; 弹幕下载，轻松将视频加入emby等媒体库 (1 day ago)
+- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. (1 day ago)
+- [lanbinleo/bili2text](https://github.com/lanbinleo/bili2text) - Bilibili视频转文字，一步到位，输入链接即可使用 (1 day ago)
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (4 days ago)
