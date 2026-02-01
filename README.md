@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (4 days ago)
-- [alibaba/terminal-bench-pro](https://github.com/alibaba/terminal-bench-pro) -  (5 days ago)
-- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源 (1 week ago)
-- [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 &#43; nfo刮削 &#43; 广告标记 &#43; 字幕下载 &#43; 弹幕下载，轻松将视频加入emby等媒体库 (1 week ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (1 week ago)
+- [alibaba/terminal-bench-pro](https://github.com/alibaba/terminal-bench-pro) -  (1 week ago)
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源 (2 weeks ago)
+- [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 &#43; nfo刮削 &#43; 广告标记 &#43; 字幕下载 &#43; 弹幕下载，轻松将视频加入emby等媒体库 (2 weeks ago)
