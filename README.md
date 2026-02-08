@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (1 week ago)
-- [alibaba/terminal-bench-pro](https://github.com/alibaba/terminal-bench-pro) -  (1 week ago)
-- [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源 (2 weeks ago)
-- [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 &#43; nfo刮削 &#43; 广告标记 &#43; 字幕下载 &#43; 弹幕下载，轻松将视频加入emby等媒体库 (2 weeks ago)
+- [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs (2 days ago)
+- [camel-ai/seta](https://github.com/camel-ai/seta) - 💻 SETA: Scaling Environments for Terminal Agents (2 days ago)
+- [271374667/VideoFusion](https://github.com/271374667/VideoFusion) - 一站式短视频拼接软件  无依赖,点击即用,自动去黑边,自动帧同步,自动调整分辨率,批量变更视频为横屏/竖屏 (5 days ago)
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. (5 days ago)
+- [Zehong-Ma/PixelGen](https://github.com/Zehong-Ma/PixelGen) - Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss” (5 days ago)
