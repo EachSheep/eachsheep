@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [gta0804/MEME](https://github.com/gta0804/MEME) - Official implementation of MEME: Modeling the Evolutionary Modes of Financial Markets (1 day ago)
-- [gta0804/AlphaPROBE](https://github.com/gta0804/AlphaPROBE) - Official implementation of AlphaPROBE: Alpha mining with principled evolution and on-graph biased generation (1 day ago)
-- [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) -  (1 week ago)
-- [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs (1 week ago)
-- [camel-ai/seta](https://github.com/camel-ai/seta) - 💻 SETA: Scaling Environments for Terminal Agents (1 week ago)
+- [hkust-nlp/Toolathlon](https://github.com/hkust-nlp/Toolathlon) - [ICLR 2026] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution (5 days ago)
+- [eval-sys/mcpmark](https://github.com/eval-sys/mcpmark) - MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. (5 days ago)
+- [gta0804/MEME](https://github.com/gta0804/MEME) - Official implementation of MEME: Modeling the Evolutionary Modes of Financial Markets (1 week ago)
+- [gta0804/AlphaPROBE](https://github.com/gta0804/AlphaPROBE) - Official implementation of AlphaPROBE: Alpha mining with principled evolution and on-graph biased generation (1 week ago)
+- [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) -  (2 weeks ago)
