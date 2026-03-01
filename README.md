@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [hkust-nlp/Toolathlon](https://github.com/hkust-nlp/Toolathlon) - [ICLR 2026] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution (5 days ago)
-- [eval-sys/mcpmark](https://github.com/eval-sys/mcpmark) - MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. (5 days ago)
-- [gta0804/MEME](https://github.com/gta0804/MEME) - Official implementation of MEME: Modeling the Evolutionary Modes of Financial Markets (1 week ago)
-- [gta0804/AlphaPROBE](https://github.com/gta0804/AlphaPROBE) - Official implementation of AlphaPROBE: Alpha mining with principled evolution and on-graph biased generation (1 week ago)
-- [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) -  (2 weeks ago)
+- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 days ago)
+- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (3 days ago)
+- [hkust-nlp/Toolathlon](https://github.com/hkust-nlp/Toolathlon) - [ICLR 2026] The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution (1 week ago)
+- [eval-sys/mcpmark](https://github.com/eval-sys/mcpmark) - MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. (1 week ago)
+- [gta0804/MEME](https://github.com/gta0804/MEME) - Official implementation of MEME: Modeling the Evolutionary Modes of Financial Markets (2 weeks ago)
