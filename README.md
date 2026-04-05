@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. (3 days ago)
-- [Mercor-Intelligence/archipelago](https://github.com/Mercor-Intelligence/archipelago) - Harness for running and evaluating AI agents against RL environments (4 days ago)
-- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) - Create, Evaluate, and Connect AI Skills (5 days ago)
-- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (1 week ago)
-- [UniPat-AI/SWE-Vision](https://github.com/UniPat-AI/SWE-Vision) -  (1 week ago)
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. (1 week ago)
+- [Mercor-Intelligence/archipelago](https://github.com/Mercor-Intelligence/archipelago) - Harness for running and evaluating AI agents against RL environments (1 week ago)
+- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) - Create, Evaluate, and Connect AI Skills (1 week ago)
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (2 weeks ago)
+- [UniPat-AI/SWE-Vision](https://github.com/UniPat-AI/SWE-Vision) -  (2 weeks ago)
