@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent. (1 week ago)
-- [Mercor-Intelligence/archipelago](https://github.com/Mercor-Intelligence/archipelago) - Harness for running and evaluating AI agents against RL environments (1 week ago)
-- [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) - Create, Evaluate, and Connect AI Skills (1 week ago)
-- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (2 weeks ago)
-- [UniPat-AI/SWE-Vision](https://github.com/UniPat-AI/SWE-Vision) -  (2 weeks ago)
+- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (1 day ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (2 days ago)
+- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Enterprise-grade deep research skill for Claude Code with 8-phase pipeline, source credibility scoring, and automated validation. Outperforms OpenAI, Gemini, and Claude Desktop in quality and verification. (2 days ago)
+- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control (2 days ago)
+- [Wang-Xiaodong1899/Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video) - ✨First Open-Source R1-like Video-LLM [2025/02/18] (4 days ago)
