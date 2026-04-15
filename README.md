@@ -4,20 +4,23 @@
 
 ### Short Bio
 
-- 🎓 From September 2022, Haiyang started his Ph.D. degree in computer software and theory in [School of Computer Science](https://cs.pku.edu.cn/) of [Peking University](https://www.pku.edu.cn/).
-- 🏅 Haiyang received his B.E degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022.
+- 🎓 I am **SHEN Haiyang**, a Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
+- 🏅 I received my B.Sc. degree from the [School of Computer Science](https://jsj.nwpu.edu.cn/) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022.
 
-- 🌱 My research interests lie in **agents based on large models (LLMs/MLMs)**. Specifically, I am interested in:
-  - 🔗 **The integration of LMs with APIs (tools).**
-  - 🛠 **The software engineering challenges associated with the integration.**
-  - 📱 **The applications of LMs on edge devices.**
-- 📚 My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focuses on system software, including *machine learning systems*, *serverless computing*, *web systems*, *software engineering*, and etc. In my first year of Ph.D., I studied anomaly detection, federated learning, inference optimization for LLMs in the cloud, etc.
-- 🔍 Throughout my studies from system software to deep learning, I have gained knowledge in various areas including *methods and applications of natural language processing*, *retrieval systems*, *data analysis and mining*, *acceleration*, and *application of machine learning systems*.
+- 🌱 My research started from **software systems**, moved toward the intersection of **software and AI**, and now focuses on **LLM-based agents**.
+- 🔍 Specifically, I am interested in:
+  - 🌐 **Search & Web Agents** for deep information seeking and web interaction.
+  - 🛠 **Coding Agents** for automated software engineering.
+  - 🔗 **Tool-Augmented LLMs** that integrate models with APIs and external tools.
+  - 📈 **Financial Agents** for market simulation and decision making.
+  - 📱 **LLM Inference on Edge Devices** for efficient web and mobile deployment.
+- 📚 My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated with the Data Space Technology and Systems Research Center, led by [Academician Hong Mei](https://scholar.google.com/citations?user=b-ZYIwoAAAAJ&hl=en) and [Professor Gang Huang](https://scholar.google.com/citations?hl=en&user=5FxmC14AAAAJ), with faculty members including [Xuanzhe Liu](https://scholar.google.com/citations?hl=en&user=eOhSVi8AAAAJ), [Xin Jin](https://scholar.google.com/citations?hl=en&user=NhsdGBUAAAAJ), and [Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
 ### 📫 Correspondence
 
 - 📧 [hyshen@stu.pku.edu.cn](mailto:hyshen@stu.pku.edu.cn)
 - 🐙 [https://github.com/eachsheep](https://github.com/eachsheep)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=BI-Mb_EAAAAJ)
 - 🌐 [https://eachsheep.space](https://eachsheep.space)
 
 ### 🌟 Others
