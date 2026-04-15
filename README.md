@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (1 day ago)
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (2 days ago)
-- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Enterprise-grade deep research skill for Claude Code with 8-phase pipeline, source credibility scoring, and automated validation. Outperforms OpenAI, Gemini, and Claude Desktop in quality and verification. (2 days ago)
-- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control (2 days ago)
-- [Wang-Xiaodong1899/Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video) - ✨First Open-Source R1-like Video-LLM [2025/02/18] (4 days ago)
+- [LilanOvO/Auto-Resubmit](https://github.com/LilanOvO/Auto-Resubmit) - 🚀 Automated &amp; lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。 (3 days ago)
+- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (4 days ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (5 days ago)
+- [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) - Enterprise-grade deep research skill for Claude Code with 8-phase pipeline, source credibility scoring, and automated validation. Outperforms OpenAI, Gemini, and Claude Desktop in quality and verification. (5 days ago)
+- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control (5 days ago)
