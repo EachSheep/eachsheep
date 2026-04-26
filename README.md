@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [sixiongxie1001-dot/deep-research-benchmark2.0](https://github.com/sixiongxie1001-dot/deep-research-benchmark2.0) -  (3 days ago)
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34; (3 days ago)
-- [LilanOvO/Auto-Resubmit](https://github.com/LilanOvO/Auto-Resubmit) - 🚀 Automated &amp; lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。 (1 week ago)
-- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (1 week ago)
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 week ago)
+- [sixiongxie1001-dot/deep-research-benchmark2.0](https://github.com/sixiongxie1001-dot/deep-research-benchmark2.0) -  (1 week ago)
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34; (1 week ago)
+- [LilanOvO/Auto-Resubmit](https://github.com/LilanOvO/Auto-Resubmit) - 🚀 Automated &amp; lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。 (2 weeks ago)
+- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (2 weeks ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (2 weeks ago)
