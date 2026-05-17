@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (today)
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 (today)
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI (4 days ago)
 - [UniPat-AI/RoadmapBench](https://github.com/UniPat-AI/RoadmapBench) -  (5 days ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
-- [sixiongxie1001-dot/deep-research-benchmark2.0](https://github.com/sixiongxie1001-dot/deep-research-benchmark2.0) -  (1 month ago)
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34; (1 month ago)
