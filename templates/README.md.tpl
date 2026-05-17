@@ -14,7 +14,6 @@
   - 📈 **Financial Agents**: exploring how agents can trade stocks and generate returns in financial markets.
   - 🧮 **Mathematical Reasoning**: synthesizing high-quality reasoning data for frontier-level mathematical problem solving.
   - 📱 **LLM Inference on Edge Devices**: efficient LLM deployment on web and mobile platforms.
-- 📚 Across these directions, I have served as a first author or co-first author on **17** papers, and contributed to **33** papers in total.
 - 📚 My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated with the Data Space Technology and Systems Research Center, led by [Academician Hong Mei](https://scholar.google.com/citations?user=b-ZYIwoAAAAJ&hl=en) and [Professor Gang Huang](https://scholar.google.com/citations?hl=en&user=5FxmC14AAAAJ), with faculty members including [Xuanzhe Liu](https://scholar.google.com/citations?hl=en&user=eOhSVi8AAAAJ), [Xin Jin](https://scholar.google.com/citations?hl=en&user=NhsdGBUAAAAJ), and [Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
 ### 📫 Correspondence
