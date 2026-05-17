@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [sixiongxie1001-dot/deep-research-benchmark2.0](https://github.com/sixiongxie1001-dot/deep-research-benchmark2.0) -  (3 weeks ago)
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34; (3 weeks ago)
-- [LilanOvO/Auto-Resubmit](https://github.com/LilanOvO/Auto-Resubmit) - 🚀 Automated &amp; lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。 (4 weeks ago)
-- [scaleapi/SWE-Atlas](https://github.com/scaleapi/SWE-Atlas) - open source SWE-Atlas (4 weeks ago)
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 month ago)
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI (4 days ago)
+- [UniPat-AI/RoadmapBench](https://github.com/UniPat-AI/RoadmapBench) -  (5 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
+- [sixiongxie1001-dot/deep-research-benchmark2.0](https://github.com/sixiongxie1001-dot/deep-research-benchmark2.0) -  (1 month ago)
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34; (1 month ago)
