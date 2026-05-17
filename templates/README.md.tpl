@@ -7,13 +7,14 @@
 - 🎓 I am **SHEN Haiyang**, a Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 - 🏅 I received my B.Sc. degree from the [School of Computer Science](https://jsj.nwpu.edu.cn/) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022.
 
-- 🌱 My research started from **software systems**, moved toward the intersection of **software and AI**, and now focuses on **LLM-based agents**.
-- 🔍 Specifically, I am interested in:
-  - 🌐 **Search & Web Agents** for deep information seeking and web interaction.
-  - 🛠 **Coding Agents** for automated software engineering.
-  - 🔗 **Tool-Augmented LLMs** that integrate models with APIs and external tools.
-  - 📈 **Financial Agents** for market simulation and decision making.
-  - 📱 **LLM Inference on Edge Devices** for efficient web and mobile deployment.
+- 🌱 My research trajectory started from **software systems**, then moved toward the intersection of **software and AI**, and has gradually evolved into my current focus on **LLM-based agents**. My long-term vision is to better integrate AI with existing software systems, enabling AI to use tools, interact with applications, and improve real-world software workflows more reliably.
+- 🔍 My research centers on **LLM-based agents**. Specifically, I am interested in:
+  - 🌐 **Search & Web Agents**: building intelligent agents for deep information seeking and web interaction.
+  - 🛠 **Coding Agents**: developing benchmarks and systems for automated software engineering.
+  - 📈 **Financial Agents**: exploring how agents can trade stocks and generate returns in financial markets.
+  - 🧮 **Mathematical Reasoning**: synthesizing high-quality reasoning data for frontier-level mathematical problem solving.
+  - 📱 **LLM Inference on Edge Devices**: efficient LLM deployment on web and mobile platforms.
+- 📚 Across these directions, I have served as a first author or co-first author on **17** papers, and contributed to **33** papers in total.
 - 📚 My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated with the Data Space Technology and Systems Research Center, led by [Academician Hong Mei](https://scholar.google.com/citations?user=b-ZYIwoAAAAJ&hl=en) and [Professor Gang Huang](https://scholar.google.com/citations?hl=en&user=5FxmC14AAAAJ), with faculty members including [Xuanzhe Liu](https://scholar.google.com/citations?hl=en&user=eOhSVi8AAAAJ), [Xin Jin](https://scholar.google.com/citations?hl=en&user=NhsdGBUAAAAJ), and [Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
 ### 📫 Correspondence
