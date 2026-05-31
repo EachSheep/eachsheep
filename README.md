@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli) - A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration. (4 days ago)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (4 days ago)
-- [UniPat-AI/harbor_multiturn](https://github.com/UniPat-AI/harbor_multiturn) -  (5 days ago)
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (1 week ago)
-- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 (1 week ago)
+- [EachSheep/MindLoom](https://github.com/EachSheep/MindLoom) -  (3 days ago)
+- [UniPat-AI/EvoCodeBench](https://github.com/UniPat-AI/EvoCodeBench) -  (4 days ago)
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal (6 days ago)
+- [harbor-framework/terminal-bench-3](https://github.com/harbor-framework/terminal-bench-3) - 🚧 Accepting Task Submissions 🚧 (6 days ago)
+- [huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli) - A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration. (1 week ago)
