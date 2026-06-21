@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [EachSheep/MindLoom](https://github.com/EachSheep/MindLoom) -  (2 weeks ago)
-- [UniPat-AI/EvoCodeBench](https://github.com/UniPat-AI/EvoCodeBench) -  (2 weeks ago)
-- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal (2 weeks ago)
-- [harbor-framework/terminal-bench-3](https://github.com/harbor-framework/terminal-bench-3) - Measuring agents&#39; ability to get work done on a computer (2 weeks ago)
-- [huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli) - A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration. (3 weeks ago)
+- [EachSheep/MindLoom](https://github.com/EachSheep/MindLoom) -  (3 weeks ago)
+- [UniPat-AI/EvoCodeBench](https://github.com/UniPat-AI/EvoCodeBench) -  (3 weeks ago)
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal (3 weeks ago)
+- [harbor-framework/terminal-bench-3](https://github.com/harbor-framework/terminal-bench-3) - Measuring agents&#39; ability to get work done on a computer (3 weeks ago)
+- [huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli) - A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration. (1 month ago)
